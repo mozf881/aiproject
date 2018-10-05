@@ -1,0 +1,1 @@
+python classify_image_inception_v3.py --model_path slim/satellite/frozen_graph.pb --label_path slim/satellite/data/label.txt --image_file test_image.jpg

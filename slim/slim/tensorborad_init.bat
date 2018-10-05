@@ -1,0 +1,1 @@
+tensorboard --logdir satellite\train_dir
